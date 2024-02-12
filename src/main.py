@@ -9,6 +9,7 @@ def generate_delta_file(original_csv_path, latest_csv_path, delta_csv_path):
     :param latest_csv_path: Path to the latest CSV file (today's data).
     :param delta_csv_path: Path to save the delta CSV file.
     """
+
     # Load CSV files
     df_original = pd.read_csv(original_csv_path, delimiter='|', dtype={'employee_number': str})
     df_latest = pd.read_csv(latest_csv_path, delimiter='|', dtype={'employee_number': str})

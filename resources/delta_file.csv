@@ -1,9 +1,3 @@
-employee_number|last_name|first_name|address|labindicator
-2486|Obrien|Kenneth|324 Wilkins Freeway Apt. 779, Donaldview, MP 97590|Y
-4035|Warren|Arthur|463 James Cliffs, South Kylieview, CA 46635|Y
-7734|Griffith|Eric|75504 Hernandez Crest Suite 458, Laurenborough, SD 98947|Y
-1496|Estai ho|Jacqueline|57317 Anthony Well Suite 451, Carolynville, IL 25226|Y
-2129|dfd|Andrew|Unit 7975 Box 2332, DPO AE 35796|Y
-3495|Smith|James|654 Norris Springs, Popeton, MI 67262|Y
-9625|Sagar|trd|526 Gates Divide Suite 122, New Amy, FL 54984|Y
-96223|Aman|trd|123 Gates Divewweewide Suite 122, dsssds Amy, FL 23|Y
+employee_number|name|last_name|address|department|position|start_date|salary|performance|email|phone|labindicator|project|manager|status
+N2486|Obrien|Kenneth|324 Wilkins Freeway Apt. 779, Donaldview, MP 97590|Engineering|Developer|2019-04-22|72000|B|kenneth.obrien@example.com|555-2486|Y|Project Delta|Williams|Active
+N2496|Green|Olivia|6629 Olivia Groves, Port Christopher, SC 43839|Test|Director|2017-04-30|92000|B|olivia.green@example.com|555-2495|Y|Project Kappa|Davis|Active

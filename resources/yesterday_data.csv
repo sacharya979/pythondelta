@@ -1,0 +1,11 @@
+employee_number|name|last_name|address|department|position|start_date|salary|performance|email|phone|labindicator|project|manager|status
+2486|Obrien|Kenneth|324 Wilkins Freeway Apt. 779, Donaldview, MP 97590|Engineering|Engineer|2019-04-22|72000|B|kenneth.obrien@example.com|555-2486|N|Project Delta|Williams|Active
+2487|Hernandez|Michael|9112 Rebecca Ports, East Joseph, MH 01856|Marketing|NaN|2018-02-18|65000|A|michael.hernandez@example.com|555-2487|Y|Project Gamma|Brown|Active
+2488|Gilbert|Jessica|8269 Jessica Tunnel, Port Sarah, AE 39045|HR|Recruiter|2020-07-15|58000|B|jessica.gilbert@example.com|555-2488|N|Project Alpha|Davis|Active
+2489|Sanchez|Christopher|454 Angela Forks, Northss Jasonshire, PW 92428|Sales|Associate|2017-11-29|56000|A|christopher.sanchez@example.com|555-2489|Y|Project Beta|Martinez|Active
+2490|Smith|Lisa|8879 Smith Via, Lake Jennifer, FM 95570|Legal|Counsel|2021-01-04|90000|A|lisa.smith@example.com|555-2490|N|Project Epsilon|Johnson|Active
+2491|Claark|Daniel|998 Clark Isle, West Michael, AS 77948|Finandsce|Analyst|2019-08-23|73000|B|daniel.clark@example.com|555-2491|N|Project Zeta|Jones|Active
+2492|Lewis|Karen|445 Lewis Rest, Bakerport, VI 71483|Operations|Manager|2018-05-19|85000|A|karen.lewis@example.com|555-2492|Y|Project Eta|Brown|Active
+2493|Walker|Brian|592 Walker Lodge, Lake Joseph, VT 07194|IT|Developer|2020-12-01|67000|B|brian.walker@example.com|555-2493|N|Project Theta|Wilson|Active
+2494|Roberts|Nancy|368 Roberts Radial, New David, UM 02659|Engineering|Senior Engineer|2016-09-14|88000|A|nancy.roberts@example.com|555-2494|Y|Project Iota|Martinez|Active
+2495|Green|Olivia|6629 Olivia Groves, Port Christopher, SC 43839|Test|Director|2017-04-30|92000|B|olivia.green@example.com|555-2495|N|Project Kappa|Davis|Active
